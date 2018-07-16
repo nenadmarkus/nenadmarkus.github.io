@@ -28,13 +28,12 @@ However, I am interested in a variety of topics in machine learning and computer
 ### Selected publications
 
 <p><i><u>N. Markuš</u>, I. Gogić, I. S. Pandžić, J. Ahlberg</i><br />
-<b>Memory-Efficient Global Refinement of Decision-Tree Ensembles and its Application to Face Alignment</b>, technical report, 2017<br />
+<b>Memory-Efficient Global Refinement of Decision-Tree Ensembles and its Application to Face Alignment</b>, to appear at BMVC 2018<br />
 [<a href="https://arxiv.org/abs/1702.08481">paper</a>]</p>
 
 <p><i><u>N. Markuš</u>, I. S. Pandžić, J. Ahlberg</i><br />
 <b>Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion</b>, International Conference on Pattern Recognition (ICPR), 2016<br />
 [<a href="https://arxiv.org/abs/1603.09095">paper</a>][<a href="https://github.com/nenadmarkus/wlrn">project</a>]</p>
-
 
 <p><i><u>N. Markuš</u>, M. Fratarcangeli, I. S. Pandžić, J. Ahlberg</i><br />
 <b>Fast Rendering of Image Mosaics and ASCII Art</b>, Computer Graphics Forum, 2015<br />
@@ -53,6 +52,19 @@ However, I am interested in a variety of topics in machine learning and computer
 ## Projects and code
 
 Please visit my [github page](https://github.com/nenadmarkus/).
+
+### `pico`
+
+My most popular contribution to the open-source community is [`pico`](https://github.com/nenadmarkus/pico),
+a minimalistic face-detection engine suitable for deployment on mobile devices and embedded hardware.
+The core algorithm behind `pico` was developed during my PhD studies.
+Nowadays it is deployed on millions of devices, in both commercial and non-commercial projects.
+
+The open-source community has made several reimplementations of `pico`.
+The most popular libraries count thousands of stars on GitHub:
+
+* <https://github.com/tehnokv/picojs>
+* <https://github.com/esimov/pigo>
 
 ---
 
